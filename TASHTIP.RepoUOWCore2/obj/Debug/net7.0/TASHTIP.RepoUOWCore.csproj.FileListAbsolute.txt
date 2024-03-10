@@ -1,0 +1,48 @@
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.deps.json
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.AssemblyReference.cache
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfoInputs.cache
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfo.cs
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.CoreCompileInputs.cache
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\refint\TASHTIP.RepoUOWCore.dll
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+D:\Meters_Website\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\ref\TASHTIP.RepoUOWCore.dll
+E:\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.deps.json
+E:\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+E:\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.AssemblyReference.cache
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfoInputs.cache
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfo.cs
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.CoreCompileInputs.cache
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\refint\TASHTIP.RepoUOWCore.dll
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+E:\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\ref\TASHTIP.RepoUOWCore.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.deps.json
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.AssemblyReference.cache
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfoInputs.cache
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfo.cs
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.CoreCompileInputs.cache
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\refint\TASHTIP.RepoUOWCore.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+H:\Amr Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\ref\TASHTIP.RepoUOWCore.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.deps.json
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\bin\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.AssemblyReference.cache
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfoInputs.cache
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.AssemblyInfo.cs
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.csproj.CoreCompileInputs.cache
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\refint\TASHTIP.RepoUOWCore.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\TASHTIP.RepoUOWCore.pdb
+D:\Project_Tashtip\TASHTIP\TASHTIP.RepoUOWCore2\obj\Debug\net7.0\ref\TASHTIP.RepoUOWCore.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFIjIICHgOm20Umdn/dTk4XkN5ASYuA/3glzD+pHNNd+0OfM+0aw2nYllgzb0mphyI3r6bCk/xrgF1D+gQ4/hQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project_Tashtip\\TASHTIP\\TASHTIP.Report2\\TASHTIP.Report.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed abdo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed abdo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed abdo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

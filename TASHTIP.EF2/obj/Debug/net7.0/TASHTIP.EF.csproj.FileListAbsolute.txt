@@ -1,0 +1,48 @@
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.deps.json
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.dll
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.pdb
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.AssemblyReference.cache
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfoInputs.cache
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfo.cs
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.CoreCompileInputs.cache
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.dll
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\refint\TASHTIP.EF.dll
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.pdb
+D:\Meters_Website\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\ref\TASHTIP.EF.dll
+E:\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.deps.json
+E:\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.dll
+E:\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.pdb
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.AssemblyReference.cache
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfoInputs.cache
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfo.cs
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.CoreCompileInputs.cache
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.dll
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\refint\TASHTIP.EF.dll
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.pdb
+E:\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\ref\TASHTIP.EF.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.deps.json
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.pdb
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.AssemblyReference.cache
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.GeneratedMSBuildEditorConfig.editorconfig
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfoInputs.cache
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfo.cs
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.CoreCompileInputs.cache
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\refint\TASHTIP.EF.dll
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.pdb
+H:\Amr Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\ref\TASHTIP.EF.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.deps.json
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\bin\Debug\net7.0\TASHTIP.EF.pdb
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.AssemblyReference.cache
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfoInputs.cache
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.AssemblyInfo.cs
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.csproj.CoreCompileInputs.cache
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\refint\TASHTIP.EF.dll
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\TASHTIP.EF.pdb
+D:\Project_Tashtip\TASHTIP\TASHTIP.EF2\obj\Debug\net7.0\ref\TASHTIP.EF.dll

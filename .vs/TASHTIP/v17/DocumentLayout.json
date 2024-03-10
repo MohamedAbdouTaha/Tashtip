@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_Tashtip\\TASHTIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6AA747-4A74-46BA-9CBF-57F226529895}|TASHTIP\\TASHTIP.Web.csproj|d:\\project_tashtip\\tashtip\\tashtip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE6AA747-4A74-46BA-9CBF-57F226529895}|TASHTIP\\TASHTIP.Web.csproj|solutionrelative:tashtip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project_Tashtip\\TASHTIP\\TASHTIP\\appsettings.json",
+              "RelativeDocumentMoniker": "TASHTIP\\appsettings.json",
+              "ToolTip": "D:\\Project_Tashtip\\TASHTIP\\TASHTIP\\appsettings.json",
+              "RelativeToolTip": "TASHTIP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T17:01:55.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
